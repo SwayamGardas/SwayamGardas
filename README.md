@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SwayamGardas
-- 👀 I’m interested in Machine Learning,Supply chain based Blockchain Technology & AI
+- 👀 I’m interested in Machine Learning, Blockchain Technology & AI
 - 🌱 I’m currently learning Advanced ML Algorithms and Memory optimization and Code enhancement Techniques
-- 💞️ I’m looking to collaborate on all the opportunities in Data Science where I can contibute my skills. 
+- 💞️ I’m looking forward to collaborate on all the opportunities in Data Science where I can contibute my skills. 
 - 📫 You can reach me at my personal Email - gardas.swayam@gmail.com
 
 <!---
