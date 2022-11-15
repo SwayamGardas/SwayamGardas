@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @SwayamGardas
+# 👋 Hi, I’m Swayam Gardas
 - 👀 I’m interested in Machine Learning, Blockchain Technology & AI
 - 🌱 I’m currently learning Advanced ML Algorithms and Memory optimization and Code enhancement Techniques
 - 💞️ I’m looking forward to collaborate on all the opportunities in Data Science where I can contibute my skills. 
