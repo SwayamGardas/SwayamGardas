@@ -5,14 +5,16 @@ Hi there, I'm Swayam Gardas 👋
 <h2 align="center">
 I'm a Data Scientist 💻, Guitarist 🎻 & Chess Player 👑.
 </h1> 
-- 👀 I’m interested in Machine Learning, Blockchain Technology & AI
+- 👀 I’m interested in Machine Learning, Blockchain Technology & AI. I love the entire process of developing ML models,Data Handling .
 
+-📊📐 I Love Statistics,Calculas & Liner algebra. & Have Good Quantitative Intuition and grasping ability.
+
+-📈 Crazy about reading graphs.
 
 -💞️ I’m looking forward to collaborate on all the opportunities in Data Science where I can contibute my skills. 
 
 -📫 You can reach me at my personal Email - gardas.swayam@gmail.com
-
--I love the entire process of developing ML models,Data Handling . 
+ 
 
 
 ### 🤝 Connect with me:
