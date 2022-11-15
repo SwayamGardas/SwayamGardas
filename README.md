@@ -6,7 +6,7 @@ Hi there, I'm Swayam Gardas 👋
 I'm a Data Scientist 💻, Guitarist 🎻 & Chess Player 👑.
 </h1> 
 
-- 👀 I’m interested in Machine Learning, Blockchain Technology & AI. I love the entire process of developing ML models,Data Handling .
+-👀 I’m interested in Machine Learning, Blockchain Technology & AI. I love the entire process of developing ML models,Data Handling .
 
 -📊📐 I Love Statistics,Calculas & Liner algebra. & Have Good Quantitative Intuition and grasping ability.
 
