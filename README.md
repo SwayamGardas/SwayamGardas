@@ -1,10 +1,10 @@
-<h3 align="center">
-#<a>Hi there, I'm Swayam Gardas</a> 👋
+<h1 align="center">
+Hi there, I'm Swayam Gardas 👋
 </h3>
 
 <h2 align="center">
 I'm a Data Analyst 💻, Guitarist 🎻, and Chess Player 👑.
-</h2> 
+</h1> 
 - 👀 I’m interested in Machine Learning, Blockchain Technology & AI
 
 
