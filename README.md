@@ -3,7 +3,7 @@ Hi there, I'm Swayam Gardas 👋
 </h3>
 
 <h2 align="center">
-I'm a Data Analyst 💻, Guitarist 🎻, and Chess Player 👑.
+I'm a Data Scientist 💻, Guitarist 🎻 & Chess Player 👑.
 </h1> 
 - 👀 I’m interested in Machine Learning, Blockchain Technology & AI
 
