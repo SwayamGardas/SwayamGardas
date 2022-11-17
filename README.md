@@ -8,7 +8,7 @@ I'm a Data Scientist 💻, Guitarist 🎻 & Chess Player 👑.
 
 -👀 I’m interested in Machine Learning, Blockchain Technology & AI. I love the entire process of developing ML models,Data Handling .
 
--📊📐 I Love Statistics,Calculas & Liner algebra. & Have Good Quantitative Intuition and grasping ability.
+-📊📐 I Love Statistics,Calculas & Linear Algebra. & Have Good Quantitative Intuition and grasping ability.
 
 -📈 Crazy about reading graphs.
 
