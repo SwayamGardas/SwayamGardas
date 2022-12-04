@@ -23,7 +23,7 @@ I'm a Data Scientist 💻, Guitarist 🎻 & Chess Player 👑.
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/swayam-gardas-030bb5251"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Swayam | LinkedIn" width="21px"/></a>
+
 <a href="https://www.instagram.com/swayam_gardas/?funlid=R4zgR0hpq2w2YMNr"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
