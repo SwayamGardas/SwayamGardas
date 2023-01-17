@@ -16,7 +16,7 @@ I'm a Data Scientist 💻, Guitarist 🎻 & Chess Player 👑.
 
 -💞️ I’m looking forward to collaborate on all the opportunities in Data Science where I can contibute my skills. 
 
--📫 You can reach me at my personal Email - gardas.swayam@gmail.com
+-📫 You can reach me at my personal Email - gardas.swayam77@gmail.com
  
 
 
