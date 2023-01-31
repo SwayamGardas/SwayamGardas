@@ -10,11 +10,11 @@ I'm a Data Scientist 💻, Guitarist 🎻 & Chess Player 👑.
 
 -💼 3.5 Years of Experience in Data Science.
 
--📊📐 I Love Statistics,Calculas & Linear Algebra. & Have Good Quantitative Intuition and grasping ability.
+-📊📐 I Love Statistics,Calculus & Linear Algebra. & Have Good Quantitative Intuition and grasping ability.
 
 -📈 Crazy about reading graphs.
 
--💞️ I’m looking forward to collaborate on all the opportunities in Data Science where I can contibute my skills. 
+-💞️ I’m looking forward to collaborate on all the opportunities in Data Science where I can contribute my skills. 
 
 -📫 You can reach me at my personal Email - gardas.swayam77@gmail.com
  
