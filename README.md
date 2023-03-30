@@ -10,6 +10,8 @@ I'm a Data Scientist 💻, Guitarist 🎻 & Chess Player 👑.
 
 -💼 3.5 Years of Experience in Data Science.
 
+- 📝✏I Regularly write articles related to data science here - https://medium.com/@gardas.swayam
+
 -📊📐 I Love Statistics,Calculus & Linear Algebra. & Have Good Quantitative Intuition and grasping ability.
 
 -📈 Crazy about reading graphs.
