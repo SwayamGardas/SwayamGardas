@@ -8,7 +8,7 @@ I'm a Data Scientist 💻, Guitarist 🎻 & Chess Player 👑.
 
 -👀 I’m interested in Machine Learning, Blockchain Technology & AI. I love the entire process of developing ML models,Data Handling .
 
--💼 3.5 Years of Experience in Data Science.
+-💼 6 Years of Experience in Data Science.
 
 -📝✏I Regularly write articles related to data science here - https://medium.com/@gardas.swayam
 
